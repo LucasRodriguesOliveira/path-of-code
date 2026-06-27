@@ -28,8 +28,9 @@ The focus is on learning and understanding the inner workings of the algorithms.
 ## Allowed References
 
 The only allowed references are:
--   learncpp.com
--   cppreference.com
+-   LEARN C++
+-   cppreference
+-   W3Schools
 
 Also allowed:
 - Asking questions to the moderators
@@ -211,6 +212,8 @@ int main() {
 
 ## 3. Quick Sort
 
+We recommend reading W3Schools topic on [Quick Sort](https://www.w3schools.com/dsa/dsa_algo_quicksort.php) to help you solve this challenge.
+
 ### Objective
 
 Sorting a list of numbers in ascending order.
@@ -290,6 +293,8 @@ Bonus challenges does not contain extensive information as the previous exercise
 
 ## Selection Sort
 
+We recommend reading W3Schools topic on [Selection Sort](https://www.w3schools.com/dsa/dsa_algo_selectionsort.php) to help you solve this challenge.
+
 ###  Concept
 
 Iterates through the list looking for the smallest remaining element.
@@ -314,6 +319,8 @@ Do you really need to swap elements multiple times or just once per pass?
 
 ## Insertion Sort
 
+We recommend reading W3Schools topic on [Insertion Sort](https://www.w3schools.com/dsa/dsa_algo_insertionsort.php) to help you solve this challenge.
+
 ### Concept
 
 Gradually builds an ordered region of the list.
@@ -333,6 +340,8 @@ What should happen to the larger elements while you try to insert a new value in
 ----------
 
 ## Merge Sort
+
+We recommend reading W3Schools topic on [Merge Sort](https://www.w3schools.com/dsa/dsa_algo_mergesort.php) to help you solve this challenge.
 
 ### Concept
 
@@ -354,6 +363,8 @@ How to combine two sorted lists without losing the order?
 ----------
 
 ## Radix Sort
+
+We recommend reading W3Schools topic on [Radix Sort](https://www.w3schools.com/dsa/dsa_algo_radixsort.php) to help you solve this challenge.
 
 ### Concept
 
