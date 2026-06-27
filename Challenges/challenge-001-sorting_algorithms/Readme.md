@@ -62,7 +62,7 @@ And even more importat: That you learned something!
 
 # Scoring rules
 
-Checkout the [Leaderborad.md]() for a explanation about how scoring works.
+Checkout the [Leaderborad.md](https://github.com/LucasRodriguesOliveira/path-of-code/blob/main/Challenges/challenge-001-sorting_algorithms/Leaderboard.md) for a explanation about how scoring works.
 
 # Required Algorithms
 
